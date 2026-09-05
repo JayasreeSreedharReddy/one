@@ -1,5 +1,5 @@
 trigger:
-- gcp
+- AWS
 
 variables:
   var1: "Raham"
